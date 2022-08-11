@@ -1,5 +1,5 @@
 # LAB - Class 16
-## Project: Web Scraper
+## Project: Serverless Functions
 #### Author: Dominic Giacona
 
 ## Still in Progress...
