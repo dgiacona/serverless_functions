@@ -28,6 +28,5 @@ class handler(BaseHTTPRequestHandler):
     else:
       message = "Gimme a word"
 
-    message = "Howdy"
     self.wfile.write(message.encode())
     return
